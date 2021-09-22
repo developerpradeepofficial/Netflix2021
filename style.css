@@ -309,6 +309,10 @@ footer {
 }
 
 @media screen and (max-width: 380px) {
+  .logo {
+    width: 100px;
+    margin-inline: auto;
+  }
   .hide-sm {
     display: none;
   }
