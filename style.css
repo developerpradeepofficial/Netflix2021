@@ -294,6 +294,10 @@ footer {
     flex-direction: column;
     text-align: center;
   }
+  .feature-item {
+    width: 90%;
+    margin-inline: auto;
+  }
   .feature-details {
     width: 90%;
   }
